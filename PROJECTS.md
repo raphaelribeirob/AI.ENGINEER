@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | [rag-production](https://github.com/raphaelribeirob/rag-production) | 05, 07, 09, 10 | In progress | Fix real-model groundedness gap; add prompt-injection defense, telemetry and tests |
 | [agent-benchmark](https://github.com/raphaelribeirob/agent-benchmark) | 06, 07 | Scaffold | Implement task suite and measured comparison with deterministic test runner |
-| Python API foundations | 01 | Planned | Typed endpoints + pytest + lint + CI |
+| [Python API foundations](tracks/01-python-apis/README.md) | 01 | Locally tested; PR proposed | 16 pytest tests passed locally; CI lint and Docker build unverified |
 | Classical ML prediction service | 02 | Planned | Dataset baseline + holdout evaluation + reproducible API |
 | Deep learning training pipeline | 03 | Planned | Train/evaluate/save/reload a PyTorch model |
 | Structured-output LLM gateway | 04 | Planned | Provider interface, schema validation, streaming, retries and usage metrics |
