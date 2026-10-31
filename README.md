@@ -18,7 +18,7 @@ This is the applied AI Engineering portfolio of [@raphaelribeirob](https://githu
 
 | # | Track | Main deliverable | State |
 | --- | --- | --- | --- |
-| 01 | [Python & APIs](tracks/01-python-apis/README.md) | Tested FastAPI service | Planned |
+| 01 | [Python & APIs](tracks/01-python-apis/README.md) | Tested FastAPI lexical baseline | Locally tested; PR proposed |
 | 02 | [Machine Learning](tracks/02-machine-learning/README.md) | Measured ML prediction API | Planned |
 | 03 | [Deep Learning](tracks/03-deep-learning/README.md) | Reproducible PyTorch training loop | Planned |
 | 04 | [LLM Engineering](tracks/04-llm-engineering/README.md) | Structured-output LLM gateway | Planned |
